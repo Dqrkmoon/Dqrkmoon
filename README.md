@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Dqrkmoon
 - 👀 I’m interested in coding obv
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on (no I'm not looking for collaboration)
-- 📫 How to reach me ... NO!
+- 📫 How to reach me ... 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cats (sometimes)
 
