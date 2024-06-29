@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dqrkmoon
+- 👋 Hi, I’m Gaurav
 - 👀 I’m interested in coding obv
-- 🌱 I’m currently learning web development
+- 🌱 I’m learning code
 - 📫 How to reach me ... 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cats (sometimes)
